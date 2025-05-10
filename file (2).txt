@@ -1,2 +1,1 @@
-vless://I_Love_🇵🇸_sshOcean_a596@sg.v2vless.site:80?encryption=none&security=none&type=ws&host=sg.v2vless.site&path=%2Fvless#sshocean-haan2552-ws
-vless://I_Love_🇵🇸_sshOcean_a596@sg.v2vless.site:443?encryption=none&security=tls&sni=sg.v2vless.site&type=ws&host=sg.v2vless.site&path=%2Fvless#sshocean-haan2552-ws
+vless://I_Love_🇵🇸_sshOcean_2a5b@support.zoom.us:80?encryption=none&flow=none&type=ws&host=sg.v2vless.site&headerType=none&path=%252Fvless&security=none#sshocean-test2553-ws
