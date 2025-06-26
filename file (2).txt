@@ -1,3 +1,26 @@
 vless://76c2f6c9-63fd-4d71-8d8b-40af5df5d15c@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-wsby81jy
 vless://ab98f84e-21a4-47df-9176-44b70e678c41@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-8walg124
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMXg1YmJqeTAiLAogICJhZGQiOiAibG9tYTAzLnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjFlMjY4YTU4LTRiZTYtNGFjMC1hNDcwLTgwYWE3MThkNGRkNSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzY4b25hZnMiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjYxZWEwYjE2LWQwOWQtNGRkZi05MzkwLTlmYjMyYTBkYjU4YyIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
+
+    },
+
+    {
+
+      "name": "AIS Play-05",
+
+      "detail": "",
+
+      "content": "
+vless://9f3f68a2-5653-476e-8ad6-c07d5d44c01d@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-2qgvnfqi
+
+    },
+
+    {
+
+      "name": "AIS Play-06",
+
+      "detail": "",
+
+      "content": "
+vless://69c8fb77-330c-407b-bbab-b7cc632dfd75@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-u20vov5v
