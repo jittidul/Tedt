@@ -1,1 +1,25 @@
-v2box://locked=dmxlc3M6Ly9haXNwbGF5dGh2QHRoZTMuaWRjLmVrcm9tLm15LmlkOjgwODA/c2VjdXJpdHk9JmVuY3J5cHRpb249bm9uZSZob3N0PXNwZWVkdGVzdC5uZXQmaGVhZGVyVHlwZT1odHRwJnR5cGU9dGNwJmRldmljZUlEPWojQUlTLVBsYXk=
+vless://76c2f6c9-63fd-4d71-8d8b-40af5df5d15c@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-wsby81jy"
+
+    },
+
+    {
+
+      "name": "AIS Play-02",
+
+      "detail": "",
+
+      "content": "
+vless://ab98f84e-21a4-47df-9176-44b70e678c41@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-8walg124"
+
+    },
+
+    {
+
+      "name": "AIS Play-03",
+
+      "detail": "",
+
+      "content": "
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMXg1YmJqeTAiLAogICJhZGQiOiAibG9tYTAzLnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjFlMjY4YTU4LTRiZTYtNGFjMC1hNDcwLTgwYWE3MThkNGRkNSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9"
+
+    },
