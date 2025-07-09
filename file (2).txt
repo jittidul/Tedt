@@ -1,3 +1,4 @@
+vless://4de0fe1e-40a5-4b4b-82ab-3f617eacb2e4@gomarketplacecontent-cf.zoom.us:80?type=ws&path=%2F&host=loma02.sry-vpn.com&security=none#TRUE-v0hpqzkz
 vless://de190268-b46c-4b97-bc62-d26ca7740362@gomarketplacecontent-cf.zoom.us:80?type=ws&path=%2F&host=loma03.sry-vpn.com&security=none#TRUE-gv2zdifs
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzY4b25hZnMiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjYxZWEwYjE2LWQwOWQtNGRkZi05MzkwLTlmYjMyYTBkYjU4YyIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
     },
