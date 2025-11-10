@@ -1,3 +1,7 @@
+vless://46119fe7-1250-4894-845d-e207e5cf6df1@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
+            
+vless://dd9665dd-51e5-46c6-8803-2091b197f1e2@103.234.236.147:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5
+
 vless://ee7107bd-ad30-49fb-95f7-9e4ee8ae2b43@readyidc-ray-3.thaivpn.uk:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Ais-play-64Kbps-04
 
 vless://e63005c7-2343-45d8-bf79-e5285462337b@visperhost-ray-1.thaivpn.uk:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Ais-play-64Kbps-05
