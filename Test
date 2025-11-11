@@ -1,3 +1,5 @@
+vless://8afef5d0-2588-4978-9448-9212a44603c8@m2.thailandserver.my.id:80?path=%2Fmdm&security=none&encryption=none&host=speedtest.net&type=ws#2%20ais
+
 vless://46119fe7-1250-4894-845d-e207e5cf6df1@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
             
 vless://dd9665dd-51e5-46c6-8803-2091b197f1e2@103.234.236.147:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5
