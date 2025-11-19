@@ -2,5 +2,5 @@ vless://c2fc4758-d744-482d-8141-8d43e23b360b@103.169.67.58:8080?type=tcp&encrypt
 
 vless://90c3386f-b3bc-4811-95d6-1303c22023bd@v2ray1.rovpn.uk:8080?security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#Rovpn
 
-vless://46119fe7-1250-4894-845d-e207e5cf6df1@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
+vless://8afef5d0-2588-4978-9448-9212a44603c8@m2.thailandserver.my.id:80?path=%2Fmdm&security=none&encryption=none&host=speedtest.net&type=ws#Thaivpn
             
