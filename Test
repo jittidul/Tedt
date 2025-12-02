@@ -1,7 +1,7 @@
 vless://30ec5d5e-66d4-4033-a1f2-eb333a0b71c6@thvpnfree3.runepvp-ro.online:8080?path=%2F&security=&encryption=none&host=speedtest.net&type=ws#TokenV1
 
-vless://c2fc4758-d744-482d-8141-8d43e23b360b@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-good
+vless://c2fc4758-d744-482d-8141-8d43e23b360b@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#Good
 
 vless://90c3386f-b3bc-4811-95d6-1303c22023bd@v2ray1.rovpn.uk:8080?security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#Rovpn
 
-trojan://szjAskXWyf@vip-meownet.nuwa-vip.win:80?type=ws&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2+MEowNet&host=cj-ebb.speedtest.net&security=none#%F0%9F%90%A3%E2%99%A5%20%CF%BB%F0%9D%92%86%E1%97%9D%F0%9D%90%B0%E1%91%8E%E1%BA%B8%F0%9D%93%89%20%F0%9F%91%BD%F0%9F%98%BA%20%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82-Nuwa%2B2
+vless://a7951bb6-d6d6-4f6f-8457-cf84d85d925a@v2ray02.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#AisPlay02
